@@ -17,7 +17,7 @@ A modern and responsive online code editor built with **React** and **CodeMirror
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, CodeMirror  
-- **Styling:** Tailwind CSS  
+- **Styling:** CSS  
 - **State Management:** React Hooks  
 - **Deployment:** GitHub Pages
 
